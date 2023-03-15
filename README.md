@@ -5,5 +5,11 @@
 
 int main ()
 {
-	int x = 0;
+}
+
+
+//두번째 수정 
+
+int random()
+{
 }
